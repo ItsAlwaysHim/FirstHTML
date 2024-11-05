@@ -1,1 +1,25 @@
-
+ <style>
+          table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+          }
+         td#Button-1 {
+            background-color: #ADD8E6;
+          }
+          td#Button-2 {
+            background-color: #ADD8E6;
+          }
+          td#Button-3 {
+            background-color: #ADD8E6;
+          }
+          td#Button-1:hover {
+            background-color: #00008B;
+          }
+          td#Button-2:hover {
+            background-color: #00008B;
+          }
+          td#Button-3:hover {
+            background-color: #00008B;
+          }
+    </style>
